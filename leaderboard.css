@@ -1,0 +1,33 @@
+button {
+	background-color: #C377EF;
+	margin-bottom: 5%;
+	font-size: 20px;
+	
+	margin-top: 5%;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	text-decoration: underline;
+	background-color: #C377EF;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+table, tr, th {
+	margin-left: 30%;
+	border-collapse: collapse;
+	border: 1px solid;
+	border-color: white;
+	background-color: #C377EF;
+	font-size: 18px;
+	text-align: center;
+	width: 40%;
+}
+
+body {
+	text-align: center;
+	background-image: url(lead.jpg);
+	margin-top: 10%;
+}

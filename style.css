@@ -1,0 +1,56 @@
+
+
+body{
+background-image: url(bm.jpg);
+text-align: center;
+color:white;
+background-repeat: no-repeat;
+background-size: 1600px 1000px;
+margin-top: 25%;
+		 }
+		 
+table, tr, td {
+			margin-left: 40%;
+			background-color: #C377EF;
+			font-size: 18px;
+			text-align: center;
+
+}
+		button {
+			background-color: #C377EF;
+			margin-bottom: 5%;
+			font-size: 20px;
+			cursor: pointer;
+		}
+		
+		a {
+			background-color: white;
+			margin-left: 30%;
+			margin-right: 30%;
+			margin-top: 20%;
+			font-size: 20px;
+			margin-bottom: 10%;
+			cursor: pointer;
+		}
+		
+h1 {
+	text-align: center;
+	color: white;
+}
+
+#register{
+	font-size: 15px;
+	margin-left: 2%;
+}
+
+#heading{
+			animation: color-change 1s infinite;
+		}
+		
+@keyframes color-change {
+		  0% { color: #C377EF; }
+		  25% { color: black; }
+		  50% { color: blue; }
+		  75% { color: #C377EF; }
+		  100% { color: blue; }
+}
